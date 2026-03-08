@@ -9,7 +9,7 @@ Practical R Code: Ready-to-use R implementation examples for every test mentione
 APA Reporting Templates: Standardized templates to help you report your findings clearly and accurately in academic writing.
 Supplementary Material: Comprehensive sections on assumption-checking, effect size interpretation, and troubleshooting violated assumptions.
 
-## Guide Structure### 
+## Guide Structure
 ### Part 1: Decision-Tree FlowA walkthrough of five major research branches to identify the appropriate analysis:
 Comparing Groups: t-tests, ANOVA, and non-parametric alternatives.
 Examining Relationships: Pearson and Spearman correlations, Chi-square, and Partial correlations.
